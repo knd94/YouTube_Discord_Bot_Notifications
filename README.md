@@ -9,7 +9,7 @@ You will need to:
 
 4. Make **SURE, POSITIVE** that it looks like this (On Dark Mode):![image](https://github.com/user-attachments/assets/8cf84351-c513-4b12-aead-db105c508e24)
 5. Download the .py and edit it!
-6. Run it! It'll most likely post your latest video up on your server though (every time you run it). 
+6. Run it!
 
 If you don't pip install discord.py or pip install discord.py google-api-python-client , it will not work. 
 
