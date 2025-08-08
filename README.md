@@ -13,4 +13,4 @@ You will need to:
 
 If you don't pip install discord.py or pip install discord.py google-api-python-client , it will not work. 
 
-Like I said in the description, I'm looking for a TikTok notification system on Discord too. As well as that, I will look into a livestream notification feature too. 
+Like I said in the description, I'm looking for a TikTok notification system on Discord too.
