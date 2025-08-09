@@ -1,5 +1,7 @@
 # YouTube Discord Bot Notifications
 
+# Read through ALL of this
+
 All the stuff with "YOUR_" will be **your** credentials. 
 
 You will need to:
@@ -11,6 +13,9 @@ You will need to:
 5. Download the .py and edit it!
 6. Run it!
 
-If you don't pip install discord.py or pip install discord.py google-api-python-client , it will not work. 
+Terminal Prompts: 
+pip install aiohttp feedparser discord.py playwright
+python -m playwright install
+pip install discord.py
+pip install discord.py google-api-python-client
 
-Like I said in the description, I'm looking for a TikTok notification system on Discord too.
