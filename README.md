@@ -1,4 +1,4 @@
-# YouTube Discord Bot Notifications
+# Discord Bot Notifications
 
 # Read through ALL of this
 
@@ -15,7 +15,17 @@ You will need to:
 
 Terminal Prompts: 
 pip install aiohttp feedparser discord.py playwright
+
 python -m playwright install
+
 pip install discord.py
+
 pip install discord.py google-api-python-client
 
+And you're done! Have fun with it. TikToks and YouTube videos will update every 5 minutes with this code. 
+
+I really wanted to do this for free. I don't want people to pay for Discord Bots. Nor do I want people's Bot Token to be breached. With this, you can edit everything if you want. 
+
+Companies that offer payment to use the Discord bot, I think, aren't very good. But that's just me. 
+
+It is with Python, so everybody can download and run the file. 
